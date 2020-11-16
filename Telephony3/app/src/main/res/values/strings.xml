@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Telelphony (Group 3)</string>
+    <string name="name1">Mark James</string>
+    <string name="name2">Jenny</string>
+    <string name="name3">Ed Paulo</string>
+    <string name="name4">Catherine</string>
+    <string name="name5">Daenerys</string>
+    <string name="num1">09167123091</string>
+    <string name="num2">09123456781</string>
+    <string name="num3">09987656781</string>
+    <string name="num4">09099876544</string>
+    <string name="num5">09222222222</string>
+
+
+</resources>
